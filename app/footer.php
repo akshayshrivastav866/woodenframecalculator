@@ -1,0 +1,1 @@
+<footer class="footer"> © 2018 Wooden Frame Calculator - Regur Technology Solutions </footer>
